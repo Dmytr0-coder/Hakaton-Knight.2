@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+ background: #56A632;
+background: linear-gradient(186deg, rgba(86, 166, 50, 1) 0%, rgba(53, 184, 108, 1) 50%, rgba(57, 158, 9, 1) 100%);
+ font-size:17px;
+}
+
+header {
+  background-color: #B48F00;
+display: flex;
+justify-content: center;
+ 
+}
+
+.logo {
+  margin: 5px;
+  height: 110px;
+  width: 90px;
+}
+
+nav {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  background-color: #B43D00;
+  padding: 11 0 8 11px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: white;
+  box-shadow: 7px 5px 5px black;
+  font-size: 25px;
+}
+
+h1 {
+   font-family: "Great Vibes", cursive;
+   
+}
+
+main p {
+  text-align: center;
+}
+
+.elly {
+  margin-left: 7px;
+  margin-top: 22px;
+  height: 355px;
+  width: 410px;
+  border-radius: 5px;
+  font-family: 'Almendra', serif;
+}
+
+span {
+  text-align: right;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around
+
+}
+
+.content {
+  width: 40%;
+}
+
+.joel {
+  margin-right: 7px;
+  margin-top: 10px;
+  height: 340px;
+  width: 370px;
+  border-radius: 5px;
+  font-family: 'Almendra', serif;
+  margin-bottom: 10px;
+}
+
+}
+
+.imgPSC {
+  height: 117px;
+  width: 165px;
+}
+
+footer {
+  background-color: #B4A400;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.tiktok {
+  border-radius: 50px;
+  height: 70px;
+  width: 75px;
+} 
+.pinvaite{
+  font-size: 20px;
+} 
+
+.story {
+  align-items: center;
+  font-family: 'Almendra', serif;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  border:none;
+  margin-top: 40px;
+  height: 40px;
+  width: 165px;
+}
+.pfooter {
+  font-size:19px;
+} 
+ 
+ .story:hover {
+      background-color: #a03600; /* Mörkare grön när musen är över */
+      transform: scale(1.05); /* Gör knappen lite större */
+    }
+.story:active {
+      transform: scale(0.98); /* Tryckeffekt */
+    }
+    
+i {
+  font-size:17px;
+} 
+
+.box2 {
+  text-align: left;
+  width:530px ;
+   display: flex;
+  justify-content: space-around;
+}
+
+.content2 {
+  width: 700px;
+  height: 300px;
+  margin-left: 77px;
+}
+
+}
+
+span {
+
+  margin-top:0px;
+ 
+}
+
+
+.fline::first-letter {
+ font-family: "Great Vibes", cursive;
+  font-size: 45px;
+}
+
+.sline {
+ margin-top 5px;
+}
